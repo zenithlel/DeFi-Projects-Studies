@@ -22,11 +22,15 @@ https://docs.google.com/document/d/1VnuQM6HbrL_rKTwjJxftZTZzJNqIKOIqANZRiYpqAXk/
 
 
 
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
 
 
 
 <h3> History of wonderland "In details" : </h3>
-
+Note : `this isn't included in the layer3 submission, this is a draft for the submission`
 
 In the following Google docs, the history of changes that happened in wonderland in full details. Many events that happened as the protocol went through it and still
 is one of the top TVL projects in Avalanche and the only project that does revenue sharing 
