@@ -3,7 +3,8 @@
 <h3> Wonderland Submission for layer3.xyz</h3>
 
 
-I hope this qualifies, Wonderland had a lot history that I wrote a whole topic about it
+I hope this qualifies, Wonderland had a lot history that I wrote a whole topic about it.
+
 I used wonderland for my own, and I submitted late to be safe. 
 
 Resources: I intereviewed many of wonderland team members, community, This guide was put after careful intereviews with wonderland team in their discord
