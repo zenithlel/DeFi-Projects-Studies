@@ -12,7 +12,8 @@ I was a wonderland user myself, I have been in wonderland community for months  
 
 
 Note: 
-`the current wonderland Docs are outdated, this description describes the current wonderland project. `
+`the current wonderland Docs are outdated, this description describes the current wonderland project. after the change as the previous products are not profitable and
+currently wonderland only provides revenue sharing`
 
 
 https://docs.google.com/document/d/1VnuQM6HbrL_rKTwjJxftZTZzJNqIKOIqANZRiYpqAXk/edit?usp=sharing
