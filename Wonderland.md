@@ -36,7 +36,7 @@ Note : `this isn't included in the layer3 submission, this is a draft for the su
 
 In the following Google docs, the history of changes that happened in wonderland in full details. Many events that happened as the protocol went through it and still
 is one of the top TVL projects in Avalanche and the only project that does revenue sharing 
-Honestly, Even this is still a little as the project had a lot of changes and writing about it needs a book not a 2 page blog xD
+
 
 
 
