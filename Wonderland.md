@@ -3,15 +3,8 @@
 <h3> Wonderland Submission for layer3.xyz</h3>
 
 
-
-`In the following link i put in a summarized version explaining how the protocol works, 
-I saw the guidelines hours before the deadline thankfully I managed to edit
-my guide to an unbiased, simple and short so a second-language speaker can understand`
-
-
-
 I hope this qualifies, Wonderland had a lot history that I wrote a whole topic about it
-I used wonderland for my own.
+I used wonderland for my own, and I submitted late to be safe. 
 
 Resources: I intereviewed many of wonderland team members, community, This guide was put after careful intereviews with wonderland team in their discord
 
