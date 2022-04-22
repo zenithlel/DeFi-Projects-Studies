@@ -16,7 +16,7 @@ I used wonderland for my own.
 Resources: I intereviewed many of wonderland team members, community, This guide was put after careful intereviews with wonderland team in their discord
 
 Note: 
-the current wonderland Docs are outdated, this description describes the current wonderland and wonderland docs will be changed soon
+`the current wonderland Docs are outdated, this description describes the current wonderland and wonderland docs will be changed soon`
 
 https://docs.google.com/document/d/1VnuQM6HbrL_rKTwjJxftZTZzJNqIKOIqANZRiYpqAXk/edit?usp=sharing
 
