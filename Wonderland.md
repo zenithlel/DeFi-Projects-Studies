@@ -8,10 +8,12 @@ I hope this qualifies, Wonderland had a lot history that I wrote a whole topic a
 I used wonderland for my own, and I submitted late to be safe. 
 
 Resources: I intereviewed many of wonderland team members, community, This guide was put after careful intereviews with wonderland team in their discord
+I was a wonderland user myself, I have been in wonderland community for months  and my blog is a summary that follows the guide 
+
 
 Note: 
 `the current wonderland Docs are outdated, this description describes the current wonderland project. `
-`Wonderland docs will be changed soon`
+
 
 https://docs.google.com/document/d/1VnuQM6HbrL_rKTwjJxftZTZzJNqIKOIqANZRiYpqAXk/edit?usp=sharing
 
